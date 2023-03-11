@@ -1,1 +1,1 @@
-AddType application/rss+xml .xml
+feed.xml application/rss+xml
