@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Last Week from the Near Future</title>
+    <link>http://example.com/rss</link>
+    <description>An example RSS feed with multiple entries.</description>
+    <lastBuildDate>Sat, 11 Mar 2023 19:18:57 GMT</lastBuildDate>
+    <item>
+      <title>LWFTNF: 2023_0307</title>
+      <link>http://example.com/entry2</link>
+      <description>I'm trying a new thing today on the blog. I'm going to put out a review of Design Fiction in movies and tv. Going to try and make this a weekly part of the daily.
+https://www.designfictiondaily.com/p/design-fiction-in-the-act-children</description>
+      <pubDate>Tue, 07 Mar 2023 02:57:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>LWFTNF: 2023_0307.05</title>
+      <link>http://example.com/entry3</link>
+      <description>Some Solarpunk History:
+
+Solarpunk: A Reference Guide, circa 2017 (by thee Jaymo, I believe): 
+https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+
+What is Solarpunk: From Sheryl Kaleo circa 2015;
+https://web.archive.org/web/20150702170454/http://www.sherylkaleo.com/solarpunk
+
+solarpunks.tumblr.com
+https://web.archive.org/web/20230000000000*/solarpunks.tumblr.com
+
+First Capture: https://web.archive.org/web/20120727070003/http://solarpunks.tumblr.com/
+
+Project Hieroglyph: Solarpunk: Notes toward a manifesto; https://web.archive.org/web/20150628114055/http://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
+
+Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images: https://web.archive.org/web/20160305015103/http://solarpunks.tumblr.com/
+
+What is SolarPunk: From Solarpunk Anarchists circa 2016: 
+https://web.archive.org/web/20160910025558/https://solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
+
+Social Ecology: From Solarpunk Anarchists circa 2017: https://web.archive.org/web/20170109064333/https://solarpunkanarchists.com/</description>
+      <pubDate>Tue, 07 Mar 2023 17:22:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>LWFTNF: 2023_0308</title>
+      <link>http://example.com/entry4</link>
+      <description>ChatGPT isn’t available in China—it’s not blocked, but OpenAI, which built the tool, hasn’t made it available there—so Guo went onto Taobao, China’s biggest ecommerce site, where hundreds of thousands of merchants offer everything from iPhone cases to foreign driver’s licenses.
+
+ChatGPT logins have become a hot commodity on Taobao, as have foreign phone numbers—particularly virtual ones that can receive verification codes. A simple search on the platform in early February returned more than 600 stores selling logins, with prices ranging from 1-30 RMB ($0.17-$4.28). Some stores have made thousands of sales. On Tencent’s WeChat, a thriving market for ChatGPT knockoffs has sprung up—mainly via mini programs (sub-applications on the platform) like “ChatGPT Online.” These offer users a handful of free questions before charging for time using a chatbot. Most of these are intermediaries—they ask ChatGPT questions for users and then send the answers back. On Baidu, China’s biggest search engine, “How to use ChatGPT within China” has been consistently trending for weeks. 
+
+The scale of the black market for access to ChatGPT—and the proliferation of copycats—shows how much latent demand there is for generative AI products in China, but also the challenges facing companies that want to develop them. The “black box” nature of generative AI makes it hard to predict a chatbot’s output, which could be perilous in the heavily controlled Chinese internet. 
+
+https://www.wired.com/story/chinas-chatgpt-black-market-baidu</description>
+      <pubDate>Wed, 08 Mar 2023 10:18:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>LWFTNF: 2023_0309</title>
+      <link>http://example.com/entry5</link>
+      <description>Another Wednesday, another shilling of the design fiction filling.
+🍩 
+Paid subscribers get to see how the donut is filled with a crazy detailed breakdown of my process.
+https://www.designfictiondaily.com/p/workit-wednesday-009-naturstol-forest</description>
+      <pubDate>Thu, 09 Mar 2023 16:23:55 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
